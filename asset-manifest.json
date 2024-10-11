@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Maru10H/my-job-app/static/css/main.fc0d3480.css",
-    "main.js": "/Maru10H/my-job-app/static/js/main.69fae213.js",
-    "static/js/453.dfb0e9ae.chunk.js": "/Maru10H/my-job-app/static/js/453.dfb0e9ae.chunk.js",
-    "index.html": "/Maru10H/my-job-app/index.html",
-    "main.fc0d3480.css.map": "/Maru10H/my-job-app/static/css/main.fc0d3480.css.map",
-    "main.69fae213.js.map": "/Maru10H/my-job-app/static/js/main.69fae213.js.map",
-    "453.dfb0e9ae.chunk.js.map": "/Maru10H/my-job-app/static/js/453.dfb0e9ae.chunk.js.map"
+    "main.css": "/my-job-app/static/css/main.fc0d3480.css",
+    "main.js": "/my-job-app/static/js/main.e7167034.js",
+    "static/js/453.dfb0e9ae.chunk.js": "/my-job-app/static/js/453.dfb0e9ae.chunk.js",
+    "index.html": "/my-job-app/index.html",
+    "main.fc0d3480.css.map": "/my-job-app/static/css/main.fc0d3480.css.map",
+    "main.e7167034.js.map": "/my-job-app/static/js/main.e7167034.js.map",
+    "453.dfb0e9ae.chunk.js.map": "/my-job-app/static/js/453.dfb0e9ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc0d3480.css",
-    "static/js/main.69fae213.js"
+    "static/js/main.e7167034.js"
   ]
 }
